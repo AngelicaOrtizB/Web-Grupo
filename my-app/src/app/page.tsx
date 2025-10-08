@@ -9,6 +9,9 @@ export default function Home() {
       <Link href="/contador">
         <button className="btn btn-primary">Reto 2</button>
       </Link>
+      <Link href="/theme">
+        <button className="btn btn-primary">Reto 4</button>
+      </Link>
       <Link href="/Reto6">
         <button className="btn btn-primary">Reto 6</button>
       </Link>
